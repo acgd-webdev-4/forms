@@ -1,5 +1,5 @@
 ---
-summary: 'Style all the form inputs that will be needed for the dog rescue website.'
+summary: 'Style all the form inputs that will be needed for the eCommerce website.'
 time: '3 hours'
 deliverables: 'Pattern library'
 ---
@@ -8,7 +8,7 @@ deliverables: 'Pattern library'
 
 ## Overview
 
-- *Continue work on your `dog-rescue-pattern-library`*
+- *Continue work on your `ecommerce-pattern-library`*
 - **We’re not styling the form page this week—we’re styling the individual form inputs and fields.**
 - Figure out all the different form fields needed for your application form and style them individually:
   - Text inputs?
