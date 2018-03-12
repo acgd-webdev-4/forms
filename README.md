@@ -10,7 +10,7 @@ deliverables: 'Pattern library'
 
 - *Continue work on your `ecommerce-pattern-library`*
 - **We’re not styling the form page this week—we’re styling the individual form inputs and fields.**
-- Figure out all the different form fields needed for your checkout form and style them individually:
+- Figure out all the different form fields needed for your checkout form and style them individually—each form field in its own HTML file:
   - Text inputs?
   - Labels?
   - Email inputs?
@@ -23,6 +23,7 @@ deliverables: 'Pattern library'
   - Different sizes?
 - You can group *some* inputs together, if their association is special, to show how they should be designed, like username/password fields—*but remember you’re not making the page, so you won’t likely need too many of these.*
 - Style the error messages & validation states too for when the form wasn’t filled in properly.
+- **Don’t use the `<form>` tag at all—we’ll be combining each field piece together into a `<form>` later when we build pages.**
 - *Run your pattern library through Markbot and make sure it passes all the checks.*
 
 ---
