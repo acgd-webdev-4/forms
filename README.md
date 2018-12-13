@@ -24,7 +24,6 @@ deliverables: 'Pattern library'
 - You can group *some* inputs together, if their association is special, to show how they should be designed, like username/password fields—*but remember you’re not making the page, so you won’t likely need too many of these.*
 - Style the error messages & validation states too for when the form wasn’t filled in properly.
 - **Don’t use the `<form>` tag at all—we’ll be combining each field piece together into a `<form>` later when we build pages.**
-- *Run your pattern library through Markbot and make sure it passes all the checks.*
 
 ---
 
